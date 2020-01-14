@@ -39,5 +39,4 @@ The project is managed by Maven, so all dependencies should be downloaded by upd
 
 
 [![docker
-build](https://img.shields.io/docker/cloud/build/ben2309/snek)](https://cloud.docker.
-com/u/wolferl42195/repository/docker/ben2309 snek)
+build](https://img.shields.io/docker/cloud/build/ben2309/snek)](https://cloud.docker.com/u/wolferl42195/repository/docker/ben2309 snek)
