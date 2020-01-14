@@ -34,3 +34,5 @@ Note: The Database works as an in-memory database, so there is no need to run th
 The project is managed by Maven, so all dependencies should be downloaded by updating the project via Maven.
 
 [![Build Status](https://travisci.com/Benabdallah2309/snek.svg)](https://travis-ci.com/Benabdallah2309/snek)
+
+![Docker Build Status](https://img.shields.io/docker/build/ben2309/snek)
